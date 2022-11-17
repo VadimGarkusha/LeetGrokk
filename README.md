@@ -85,7 +85,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/rotate-list/
 
 ## Pattern: Tree Breadth First Search
-- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal/ (Blind)
+- [X] https://leetcode.com/problems/binary-tree-level-order-traversal/ (Blind)
 - [ ] https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 - [ ] https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - [ ] https://leetcode.com/problems/average-of-levels-in-binary-tree/
@@ -98,7 +98,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 
 ## Pattern: Tree Depth First Search
 - [ ] https://leetcode.com/problems/path-sum/
-- [ ] https://leetcode.com/problems/path-sum-ii/
+- [X] https://leetcode.com/problems/path-sum-ii/
 - [ ] https://leetcode.com/problems/sum-root-to-leaf-numbers/
 - [ ] https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/
 - [ ] https://leetcode.com/problems/path-sum-iii/
