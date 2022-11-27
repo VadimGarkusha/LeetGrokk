@@ -30,8 +30,8 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 ## Pattern: Islands(Matrix Traversal)
 - [X] https://leetcode.com/problems/number-of-islands/ (Blind)
 - [X] https://leetcode.com/problems/max-area-of-island/
-- [ ] https://leetcode.com/problems/flood-fill/
-- [ ] https://leetcode.com/problems/number-of-closed-islands/
+- [X] https://leetcode.com/problems/flood-fill/
+- [X] https://leetcode.com/problems/number-of-closed-islands/
 - [ ] https://leetcode.com/problems/island-perimeter/
 - [ ] https://leetcode.com/problems/number-of-distinct-islands/
 - [ ] https://leetcode.com/problems/detect-cycles-in-2d-grid/
@@ -49,16 +49,16 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
 ## Pattern: Fast & Slow pointers
-- [ ] https://leetcode.com/problems/linked-list-cycle/ (Blind)
-- [ ] https://leetcode.com/problems/linked-list-cycle-ii/
-- [ ] https://leetcode.com/problems/happy-number/
+- [X] https://leetcode.com/problems/linked-list-cycle/ (Blind)
+- [X] https://leetcode.com/problems/linked-list-cycle-ii/
+- [X] https://leetcode.com/problems/happy-number/
 - [ ] https://leetcode.com/problems/middle-of-the-linked-list/
 - [ ] https://leetcode.com/problems/palindrome-linked-list/
 - [ ] https://leetcode.com/problems/reorder-list/ (Blind)
 - [ ] https://leetcode.com/problems/circular-array-loop/
 
 ## Pattern: Merge Intervals
-- [ ] https://leetcode.com/problems/merge-intervals/ (Blind)
+- [X] https://leetcode.com/problems/merge-intervals/ (Blind)
 - [ ] https://leetcode.com/problems/insert-interval/ (Blind)
 - [ ] https://leetcode.com/problems/interval-list-intersections/
 - [ ] https://leetcode.com/problems/meeting-rooms/ (Blind and Premium)
@@ -69,8 +69,8 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 ## Pattern: Cyclic Sort
 
 - Couldn't find Cyclic Sort
-- [ ] https://leetcode.com/problems/missing-number/ (Blind)
-- [ ] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+- [X] https://leetcode.com/problems/missing-number/ (Blind)
+- [X] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 - [ ] https://leetcode.com/problems/find-the-duplicate-number/
 - [ ] https://leetcode.com/problems/find-all-duplicates-in-an-array/
 - [ ] https://leetcode.com/problems/set-mismatch/
